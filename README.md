@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmanuellyDev
+- 👋 Hi, I’m Emanuelly
 - 👀 I’m interested in Software Development.
 
 <!---
