@@ -1,4 +1,4 @@
-## Hello Strange 🖖🏽👽🌟
+# Hello Strange 🖖🏽👽🌟
 
 * Pode me chamar de ***🌼Manu***, tenho 19 anos e estou cursando o 4° Semestre do curso de **👩🏽‍🎓Sistemas de Informação** na **UNIDESC**.
 * Tenho interesse na área de ***💻Desenvolvimento de Software*** e estou estudando para me tornar **✨Desenvolvedora Back-end✨**.
