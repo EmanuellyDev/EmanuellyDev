@@ -11,6 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angularjs" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" style="max-width:100%;"></img>
+<img src="https://media3.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b76110beb54cddbb37189b975dba5f471a6032768b670&rid=giphy.gif&ct=g" alt="GIF" align="right" style="max-width:100%;"></img>
 
 ## Ferramentas:
 
@@ -20,10 +21,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="Intellij" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="Atom" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" width="50" height="50" style="max-width:100%;"></img>
-<img src="https://media3.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b76110beb54cddbb37189b975dba5f471a6032768b670&rid=giphy.gif&ct=g" alt="GIF" align="right" style="max-width:100%;"></img>
 
-🌟
+
+## 🌟Fale comigo:
 
 <div>
   <a href="mailto: emanuellysilvadossantos08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/emanuellydev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
