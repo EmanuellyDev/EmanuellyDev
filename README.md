@@ -1,7 +1,7 @@
 # Hello Strange 🖖🏽👽
 
-* Me chamo ***🌼Manu***, tenho 19 anos e estou cursando o 4° Semestre do curso de **👩🏽‍🎓Sistemas de Informação** na **UNIDESC**.
-* Tenho interesse na área de ***💻Desenvolvimento de Software*** e estou estudando para me tornar **✨Desenvolvedora Back-end✨**.
+* Me chamo Emanuelly, mas pode me chamar de ***🌼Manu***, tenho 19 anos e estou cursando o 4° Semestre do curso de **👩🏽‍🎓Sistemas de Informação** na **UNIDESC**.
+* E estou estudando para me tornar **✨Desenvolvedora de Software✨**.
 
 ## 🚀 No momento estou estudando:
 
@@ -11,17 +11,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angularjs" width="30" height="30" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30" style="max-width:100%;"></img>
-<img src="https://media3.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b76110beb54cddbb37189b975dba5f471a6032768b670&rid=giphy.gif&ct=g" alt="GIF" align="right" style="max-width:100%;"></img>
+<img src="https://media.giphy.com/media/YnfEJr3EBG93SbYnuR/giphy.gif" alt="GIF" align="right" style="max-width:100%;"></img>
 
 ## 🌟 Ferramentas:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="30" height="30" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="Intellij" width="30" height="30" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="Atom" width="30" height="30" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode" width="30" height="30" style="max-width:100%;"></img>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="Intellij" width="30" height="30" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30" style="max-width:100%;"></img>
 
 ## 🌈 Fale comigo:
 
