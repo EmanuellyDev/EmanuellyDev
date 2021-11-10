@@ -1,6 +1,6 @@
 # Hello Strange 🖖🏽👽
 
-* Me chamo Emanuelly, mas pode me chamar de ***🌼Manu***, tenho 19 anos e estou cursando o 4° Semestre do curso de **👩🏽‍🎓Sistemas de Informação** na **UNIDESC**.
+* Me chamo Emanuelly, mas pode me chamar de ***🌼Manu***, estou cursando o 4° Semestre do curso de **👩🏽‍🎓Sistemas de Informação** na **UNIDESC**.
 * Estou estudando para me tornar **✨Desenvolvedora de Software✨**.
 
 ## 🚀 No momento estou Aprendendo:
