@@ -1,7 +1,7 @@
-# Hello Strange 🖖🏽👽
+# Hello Strange 👽
 
-* Me chamo Emanuelly, mas pode me chamar de ***🌼Manu***, estou cursando o 4° Semestre do curso de **👩🏽‍🎓Sistemas de Informação** na **UNIDESC**.
-* Estou estudando para me tornar **✨Desenvolvedora de Software✨**.
+* Me chamo Emanuelly, estou cursando o 4° Semestre do curso **Sistemas de Informação** na **UNIDESC**.
+* Estou estudando para me tornar Desenvolvedora de Software.
 
 ## 🚀 No momento estou Aprendendo:
 
@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30" style="max-width:100%;"></img>
 </div>
 
-## 🌈 Fale comigo:
+## ✨ Fale comigo:
 
 <div>
   <a href="mailto: emanuellysilvadossantos08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
