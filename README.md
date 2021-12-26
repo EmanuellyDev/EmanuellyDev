@@ -1,6 +1,6 @@
 # Hello Strange 👽
 
-* Me chamo Emanuelly, estou cursando o 4° Semestre do curso **Sistemas de Informação** na **UNIDESC**.
+* Me chamo Emanuelly, estou cursando o 5° Semestre do curso **Sistemas de Informação** na **UNIDESC**.
 * Estou estudando para me tornar Desenvolvedora de Software com foco em **Desenvolvimento Mobile**.
 
 ## 🚀 No momento estou Aprendendo:
