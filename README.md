@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30" style="max-width:100%;"></img>
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="30" height="30" style="max-width:100%;"></img>-->
-<img src="https://media2.giphy.com/media/wr82LOt9GX2RXc5Zf2/giphy.gif?cid=ecf05e47gl761upvu4er99o8wrucsqigsfbqjtudm9ujy6zv&rid=giphy.gif&ct=g" alt="GIF" align="right" width="400" height="200" style="max-width:100%;"></img>
+<img src="https://media2.giphy.com/media/wr82LOt9GX2RXc5Zf2/giphy.gif?cid=ecf05e47gl761upvu4er99o8wrucsqigsfbqjtudm9ujy6zv&rid=giphy.gif&ct=g" alt="GIF" align="right" width="240" height="120" style="max-width:100%;"></img>
 
 ## 🌟 Ferramentas:
 
