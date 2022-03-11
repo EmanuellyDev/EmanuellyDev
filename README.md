@@ -1,11 +1,10 @@
 # Hello Strange 👽
 
 * ✨**Bem vindo ao meu perfil**! Fico feliz de ter chegado até aqui, e te convido a me conhecer melhor.
-* 👩🏽‍🎓 Sou estudante de *Desenvolvimento de Software*, no momento estou cursando o 5° Período do Bacharelado em **Sistemas de Informação** na **UNIDESC**.
-* 📱 Estou estudando para me tornar Desenvolvedora de Software com foco em **Desenvolvimento Mobile**.
-* 📚 No momento estou focando no Desenvolvimento Android Nativo, e assim que estiver com uma base mais sólida pretendo expandir para outras tecnologias.
+* 👩🏽‍🎓 Estudante de *Desenvolvimento de Software*, cursando o 5° Período do Bacharelado em **Sistemas de Informação** no **Centro Universitário UNIDESC**.
+* 📚 No momento focando em **Desenvolvimento Mobile** com Android Nativo.
 
-## 🚀 No momento estou Aprendendo:
+## 🚀 Estou Aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" style="max-width:100%;"></img>
