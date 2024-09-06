@@ -17,3 +17,8 @@
 ## 🍄 How to reach me:
 <div>
   <a href="https://www.linkedin.com/in/emanuellydev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+  ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@ManuDev/30-nites-of-code)  
+  ![@ManuDev #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ManuDev)
